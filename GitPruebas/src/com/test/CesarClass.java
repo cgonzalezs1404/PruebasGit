@@ -8,6 +8,7 @@ public class CesarClass {
 		
 		System.out.println("Metodo de prueba de Cesar");
 		System.out.println("Metodo de prueba de Yeni");
+		System.out.println("Metodo de prueba de Miguel");
 	}
 
 }
