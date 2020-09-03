@@ -14,9 +14,6 @@ public class HelloWorld {
 		cesar.MetodoPrueba();
 		cesar.MetodoPruebaBranch();
 		
-		MiguelClass m = new MiguelClass();
-		System.out.println(m.toString());
-		
 		rafa = new RafaelClass();
 		var res = rafa.MetodoSuma(5, 5);
 		System.out.println("El resultado de mi suma es: " + res);
