@@ -8,6 +8,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("HOLA MUNDO DESDE MIGUEL BRANCH");
 		
 		cesar = new CesarClass();
 		cesar.MetodoPrueba();
@@ -23,6 +24,11 @@ public class HelloWorld {
 		yaz = new Yazzy();
 		yaz.saludar();
 		yaz.mensajeRama();
+		
+		MiguelClassV2 v2 = new MiguelClassV2();
+		System.out.println(v2.toString());
+		
+				
 
 	}
 

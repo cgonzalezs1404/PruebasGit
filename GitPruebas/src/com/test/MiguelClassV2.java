@@ -1,14 +1,14 @@
 package com.test;
 
-public class MiguelClass {
+public class MiguelClassV2 {
 
-	public MiguelClass() {
+	public MiguelClassV2() {
 		// TODO Auto-generated constructor stub
 	}
 	
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "Hola mundo desde MiguelClass";
+		return "Hola mundo desde MiguelClassV2";
 	}
 }
