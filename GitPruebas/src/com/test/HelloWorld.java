@@ -2,8 +2,8 @@ package com.test;
 
 public class HelloWorld {
 	
-	private static CesarClass cesar;
-	private static RafaelClass rafa;
+//	private static CesarClass cesar;
+//	private static RafaelClass rafa;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
