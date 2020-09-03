@@ -9,6 +9,9 @@ public class HelloWorld {
 		
 		cesar = new CesarClass();
 		cesar.MetodoPrueba();
+		
+		MiguelClass m = new MiguelClass();
+		System.out.println(m.toString());
 
 	}
 
