@@ -12,7 +12,7 @@ public class HelloWorld {
 		
 		MiguelClass m = new MiguelClass();
 		System.out.println(m.toString());
-
+		
 	}
 
 }
