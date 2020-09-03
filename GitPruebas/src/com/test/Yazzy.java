@@ -8,4 +8,8 @@ public class Yazzy {
 	public void saludar(){
 		System.out.println("USANDO GIT Y NO MORIR EN EL INTENTO");
 	}
+	
+	public void mensajeRama() {
+		System.out.println("Mensaje desde la rama de Yazz");
+	}
 }
