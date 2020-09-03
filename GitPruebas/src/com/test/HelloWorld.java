@@ -19,6 +19,7 @@ public class HelloWorld {
 		var res = rafa.MetodoSuma(5, 5);
 		System.out.println("El resultado de mi suma es: " + res);
 		
+		yaz = new Yazzy();
 		yaz.saludar();
 
 	}
