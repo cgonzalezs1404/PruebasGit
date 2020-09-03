@@ -21,6 +21,7 @@ public class HelloWorld {
 		
 		yaz = new Yazzy();
 		yaz.saludar();
+		yaz.mensajeRama();
 
 	}
 
