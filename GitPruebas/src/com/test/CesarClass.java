@@ -16,5 +16,9 @@ public class CesarClass {
 	public void MetodoPruebaBranch() {
 		System.out.println("Metodo creado en la Rama de Cesar");
 	}
+	
+	public void metodoPruebaYazz(){
+		System.out.println("Metodo creado en la rama de CESAR localmente en YAZZY-PC");
+	}
 
 }
