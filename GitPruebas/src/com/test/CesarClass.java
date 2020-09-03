@@ -7,6 +7,7 @@ public class CesarClass {
 	public void MetodoPrueba() {
 		
 		System.out.println("Metodo de prueba de Cesar");
+		System.out.println("Metodo de prueba de Yeni");
 	}
 
 }
