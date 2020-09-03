@@ -6,6 +6,6 @@ public class MiguelClassV2 {
 	}
 	
 	public String toString() {
-		return "Hola mundo desde MiguelClassV2";
+		return "Hola mundo desde MiguelClassV3";
 	}
 }
