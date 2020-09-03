@@ -11,6 +11,7 @@ public class HelloWorld {
 		
 		cesar = new CesarClass();
 		cesar.MetodoPrueba();
+		cesar.MetodoPruebaBranch();
 		
 		MiguelClass m = new MiguelClass();
 		System.out.println(m.toString());

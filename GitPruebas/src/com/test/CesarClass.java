@@ -12,5 +12,9 @@ public class CesarClass {
 		System.out.println("Metodo de prueba de Rafael");
 		System.out.println("Metodo de prueba de YASS");
 	}
+	
+	public void MetodoPruebaBranch() {
+		System.out.println("Metodo creado en la Rama de Cesar");
+	}
 
 }
