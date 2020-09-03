@@ -23,6 +23,11 @@ public class HelloWorld {
 		yaz = new Yazzy();
 		yaz.saludar();
 		yaz.mensajeRama();
+		
+		MiguelClassV2 v2 = new MiguelClassV2();
+		System.out.println(v2.toString());
+		
+				
 
 	}
 
