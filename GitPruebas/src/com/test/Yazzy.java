@@ -12,4 +12,8 @@ public class Yazzy {
 	public void mensajeRama() {
 		System.out.println("Mensaje desde la rama de Yazz");
 	}
+	
+	public int suma(int a, int b) {
+		return a+b;
+	}
 }
