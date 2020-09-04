@@ -22,6 +22,8 @@ public class HelloWorld {
 		yaz = new Yazzy();
 		yaz.saludar();
 		yaz.mensajeRama();
+		
+		System.out.println(yaz.suma(3, 5));
 
 	}
 
